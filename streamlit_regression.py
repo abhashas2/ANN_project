@@ -11,7 +11,7 @@ from tensorflow.keras.models import load_model
 
 model = load_model("salary_regression_model.h5")
 
-with open("scaler.pkl", "rb") as file:
+with open("scaler_salary.pkl", "rb") as file:
     scaler = pickle.load(file)
 
 with open("label_encoder.pkl", "rb") as file:
