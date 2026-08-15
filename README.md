@@ -146,7 +146,7 @@ The model is trained using:
 ### 🌐 Live Streamlit App
 
 👉 **Estimated Salary Prediction:**
-`PASTE-YOUR-REGRESSION-STREAMLIT-LINK-HERE`
+https://annproject-m45manm2xj7mfakqt8mffe.streamlit.app/
 
 ---
 
@@ -292,13 +292,13 @@ https://annproject-z33rxxril6ldyp5sgrhunk.streamlit.app/
 
 ### 🚀 Regression — Estimated Salary
 
-`PASTE-YOUR-REGRESSION-STREAMLIT-LINK-HERE`
+https://annproject-m45manm2xj7mfakqt8mffe.streamlit.app/
 
 ---
 
 # 👨‍💻 Author
 
-**Abhash**
+**Abhash**,
 IIT Bhubaneswar
 
 ---
